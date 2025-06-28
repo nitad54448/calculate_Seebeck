@@ -1,6 +1,6 @@
 # Seebeck Coefficient Calculator
 
-This application, titled "calculate_seebeck," is a scientific utility program designed to calculate and visualize the Seebeck coefficients for various thermocouple types.
+This application, titled "calculate_seebeck," is a scientific utility program designed to calculate and visualize the Seebeck coefficients for various thermocouple types. The source is available as a project in LV 2023, it requires JKI State Machine. An installer for Windows 11 is available, see below.
 
 ## Description
 
