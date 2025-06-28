@@ -76,7 +76,7 @@
 				<Property Name="Bld_localDestDirType" Type="Str">relativeToCommon</Property>
 				<Property Name="Bld_modifyLibraryFile" Type="Bool">true</Property>
 				<Property Name="Bld_previewCacheID" Type="Str">{0C9417DB-3FAC-40D2-936E-3B8FE941D7BB}</Property>
-				<Property Name="Bld_version.build" Type="Int">9</Property>
+				<Property Name="Bld_version.build" Type="Int">11</Property>
 				<Property Name="Bld_version.major" Type="Int">1</Property>
 				<Property Name="Destination[0].destName" Type="Str">calc_Seebeck.exe</Property>
 				<Property Name="Destination[0].path" Type="Path">/C/Users/manip/Documents/recherche/labview/builds/NI_AB_PROJECTNAME/calc_Seebeck.exe</Property>
@@ -154,7 +154,7 @@
 				<Property Name="INST_defaultDir" Type="Str">{E1A08008-167D-4602-A6F2-910E4BC3FCED}</Property>
 				<Property Name="INST_installerName" Type="Str">install.exe</Property>
 				<Property Name="INST_productName" Type="Str">calc_Seebeck</Property>
-				<Property Name="INST_productVersion" Type="Str">1.0.4</Property>
+				<Property Name="INST_productVersion" Type="Str">1.0.6</Property>
 				<Property Name="InstSpecBitness" Type="Str">64-bit</Property>
 				<Property Name="InstSpecVersion" Type="Str">23108276</Property>
 				<Property Name="MSI_autoselectDrivers" Type="Bool">true</Property>
